@@ -28,7 +28,7 @@ I will not go through the steps for that, lots of youtube videos and articles ex
 
 ### Prerequisites
 
-Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit windows let me know how this peforms)
+Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit windows let me know how this performs)
 
 ## Authors
 
@@ -37,5 +37,5 @@ Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [license.md](license.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
