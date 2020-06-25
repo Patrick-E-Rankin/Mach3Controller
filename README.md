@@ -30,12 +30,6 @@ I will not go through the steps for that, lots of youtube videos and articles ex
 
 Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit windows let me know how this peforms)
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Authors
 
 * **Patrick Rankin** - *lead doofus* - [Patrick-E-Rankin](https://github.com/Patrick-E-Rankin/)
