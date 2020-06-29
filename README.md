@@ -27,6 +27,11 @@ You need to run at least the udpserver.py script to get coordinates to your disp
 You will load the INO files in Arduino IDE and compile it for the ESP32. <br>
 I will not go through the steps for that, lots of youtube videos and articles explaining how to get setup. <br>
 
+## Android
+
+Excited about this new app I made on App Inventor! AIA file is included in the Android folder along with the great UDP library/extension<br>
+from <a href="https://ullisroboterseite.de/android-AI2-UDP.html">Ulrich</a>? Anyway I'm including it in the folder as well.
+
 ### Prerequisites
 
 Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit windows let me know how this performs)
