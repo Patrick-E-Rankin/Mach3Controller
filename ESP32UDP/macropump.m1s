@@ -1,1 +1,0 @@
-   XV = "X" & Format (Getdro(0) , "+00.000;-00.000")   YV = "Y" & Format (Getdro(1) , "+00.000;-00.000")   ZV = "Z" & Format (Getdro(2) , "+00.000;-00.000")    Dim fso, MyFile   Set fso = CreateObject("Scripting.FileSystemObject")   Set MyFile = fso.CreateTextFile("c:\python\coordinates.txt", True)   MyFile.WriteLine(XV&&YV&&ZV)   MyFile.Close
