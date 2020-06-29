@@ -31,7 +31,7 @@ I will not go through the steps for that, lots of youtube videos and articles ex
 
 Excited about this new app I made on App Inventor! AIA file is included in the Android folder along with the great UDP library/extension
 from <a href="https://ullisroboterseite.de/android-AI2-UDP.html">Ulrich</a>? <br>
-Anyway I'm including it in the folder as well.
+Anyway I'm including it in the folder as well.<br>
 <img src="https://raw.githubusercontent.com/Patrick-E-Rankin/Mach3Controller/master/Android/AndroidScreenshot.png"></img>
 
 ### Prerequisites
