@@ -1,6 +1,6 @@
 # Mach3 Controller
 
-ESP32 / ESP8266 based display and controller for Mach3 CNC software from Artsoft.<br>
+Android / ESP32 / ESP8266 based display and controller for Mach3 CNC software from Artsoft.<br>
 It relies heavily on Mach3's macropump function to write to a simple text file. <br>
 We will read that text file with python and send it over UDP (mostly because it's the only<br>
 one that lets me send and receive at the same time easily). I have examples of receiving coordinates over<br>
