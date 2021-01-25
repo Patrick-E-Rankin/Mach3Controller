@@ -8,6 +8,9 @@ Serial, Serial over Bluetooth, Websocket, reading the file over Samba/CIFS (Rasp
 and lastly UDP, which I like the most. I liked Bluetooth as well, but I couldn't get HID and SPP (or UART) working <br>
 at the same time, if you know how in the Arduino IDE, please let me know. <br>
 
+*DISCLAIMER*<br>
+I no longer display coordinates to my phone, I found just using the controller aspect for my 6090 CNC is enough for me.<br>
+
 ## Getting Started
 
 First you need to replace or copy the macropump.m1s file over to C:\Mach3\macros\Mach3Mill\ <br>
