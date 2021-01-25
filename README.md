@@ -18,8 +18,6 @@ After installation, open Command Prompt (Start -> Run -> CMD -> ENTER) <br>
 Then run command Pip install keyboard <br>
 I suggest you download the python scripts to C:\Python but ultimately doesn't matter <br>
 You will need to edit the udpserver.py to match your network setup (meaning 192.168.1.1 or 10.0.0.1 so on and so forth) <br>
-I highly suggest you use the broadcast address (ie 192.168.1.255, it's your regular IP address but change the last 3 to 255) <br>
-This will broadcast on the whole network so you could have multiple nodes. <br>
 You can also edit the receive.py to match whatever keyboard keys you want, please read the Python Keyboard library for more info. <br>
 You can just double click a python script to run it or make a batch file to run both. <br>
 You need to run at least the udpserver.py script to get coordinates to your display. <br><br>
