@@ -36,7 +36,7 @@ Anyway I'm including it in the folder as well.<br>
 
 ### Prerequisites
 
-Windows 7 or newer (I have not tested 32 bit if you are running Mach3 on 32 bit windows let me know how this performs)
+Windows 7 or newer (if you are using Windows 7 32bit you will need to use an older version of Python)
 
 ## Authors
 
